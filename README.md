@@ -14,7 +14,7 @@ A Django-based travel listing platform with RESTful API endpoints.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/alx_travel_app.git
+   git clone https://github.com/YounessBilgui/alx_travel_app
    cd alx_travel_app
    ```
 
